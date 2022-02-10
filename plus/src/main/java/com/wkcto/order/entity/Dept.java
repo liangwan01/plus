@@ -14,6 +14,9 @@ import java.io.Serializable;
  */
 public class Dept implements Serializable {
 
+
+    //fdksl;a'kl
+
     private static final long serialVersionUID = 1L;
 
     @TableId(value = "id", type = IdType.ID_WORKER)
